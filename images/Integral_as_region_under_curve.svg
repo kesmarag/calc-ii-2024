@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.0"
-   width="750px"
-   height="700px"
-   viewBox="0 0 750 700"
+   width="627.48969"
+   height="362.55518"
+   viewBox="0 0 627.48969 362.55518"
    id="svg12"
    sodipodi:docname="Integral_as_region_under_curve.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:export-filename="Integral_as_region_under_curve.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,9 +24,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.39866667"
-     inkscape:cx="398.82943"
-     inkscape:cy="-82.77592"
+     inkscape:zoom="0.84950271"
+     inkscape:cx="343.14193"
+     inkscape:cy="114.18445"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -54,41 +57,32 @@
     </marker>
   </defs>
   <g
-     style="stroke:#463285;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;fill-rule:evenodd"
-     id="g7">
+     style="fill-rule:evenodd;stroke:#463285;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter"
+     id="g7"
+     transform="translate(-48.601338,-277.79552)">
     <path
-       style="fill:#e9e9f4;stroke:#6a2450"
-       d="M 237.6,188.8 C 279.5,201.3 335.4,235 386,263.1 461.5,305 537.6,335.2 636.9,303.3 L 638,571.3 237.6,570.2 237.6,188.8 z"
+       style="fill:#e9e9f4;stroke:#6a2450;stroke-width:2.92644"
+       d="m 251.09615,369.21528 c 37.36525,7.50267 87.21532,27.72986 132.339,44.59586 67.3288,25.14894 135.19267,43.27539 223.74566,24.12858 l 0.98095,160.8572 -357.06561,-0.66023 z"
        id="path1" />
     <path
-       style="fill:#000000;stroke:#463285;marker-end:url(#ArrowWide)"
-       d="M 46.88,571.3 687.3,572.5"
+       style="fill:#000000;stroke:#463285;stroke-width:2.92644;marker-end:url(#ArrowWide)"
+       d="m 81.01734,598.79692 571.10879,0.72025"
        id="path2" />
     <path
-       style="fill:#000000;stroke:#463285;marker-start:url(#ArrowWide)"
-       d="M 107.2,41.154415 106,640.52442 v -22.04"
+       style="fill:#000000;stroke:#463285;stroke-width:2.92644;marker-start:url(#ArrowWide)"
+       d="m 134.80905,280.59642 -1.07013,359.74993 v -13.22871"
        id="path3" />
     <path
-       style="fill:none;stroke:#463285"
-       d="M 636.3,303.3 C 668.1,293.8 686,287 713.7,274.6"
+       style="fill:none;stroke:#463285;stroke-width:2.92644"
+       d="m 606.64574,437.93972 c 28.35836,-5.70203 44.32109,-9.78348 69.02317,-17.22613"
        id="path4" />
     <path
-       style="fill:none;stroke:#463285"
-       d="M 11.22,241.4 C 73.07,198.8 137.7,161.3 238,188.7"
+       style="fill:none;stroke:#463285;stroke-width:2.92644"
+       d="M 49.216742,400.78651 C 104.37285,375.21741 162.0081,352.70941 251.45286,369.15526"
        id="path5" />
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';text-align:center;text-anchor:middle;fill:#463285;stroke:none;stroke-width:1.5;stroke-miterlimit:3.9"
-       x="441.66751"
-       y="462.67505"
-       id="text13"><tspan
-         sodipodi:role="line"
-         id="tspan13"
-         x="441.66751"
-         y="462.67505">S</tspan></text>
     <g
        ns4:text="\(f(x)\)"
-       transform="matrix(5.5055663,0,0,5.5055663,-670.75401,-412.21081)"
+       transform="matrix(2.7677808,0,0,2.7677808,-25.067043,115.06502)"
        id="g18"
        style="fill:#463285;stroke:none">
       <g
@@ -136,5 +130,16 @@
            style="fill:#463285;stroke:none" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:29.3333px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';text-align:center;text-anchor:middle;fill:#463285;stroke:none;stroke-width:1.5;stroke-miterlimit:3.9"
+       x="425.88708"
+       y="528.17474"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="425.88708"
+         y="528.17474"
+         style="font-size:29.3333px">S</tspan></text>
   </g>
 </svg>
